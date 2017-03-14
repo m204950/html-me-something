@@ -1,0 +1,10 @@
+div {
+	position: relative;
+	display: inline-block;
+	height: 275px;
+	width: 450px;
+	border: 2px solid black;
+	margin-left: 5px;
+	margin-top: 5px;
+	text-align: center;
+}
